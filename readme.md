@@ -25,34 +25,23 @@ It enables:
 ### 🔴 ROI Selection and Mapping
 
 #### ROIs drawn on projection image
-![ROI on Image](meta-lfm-cortical_outputs/roi_on_image.png)
+![ROI on Image](meta-lfm-cortical_outputs/meta-lfm-cortical_roi_on_movie.png)
 
-#### ROIs mapped onto movie mean
-![ROI on Movie](meta-lfm-cortical_outputs/roi_on_movie.png)
 
----
 
 ### 📈 Calcium Activity
 
 #### ΔF/F traces with detected peaks
-![Traces Peaks](meta-lfm-cortical_outputs/traces_peaks.png)
+![Traces Peaks](meta-lfm-cortical_outputs/meta-lfm-cortical_offset_traces.png)
 
-#### Offset traces (multi-ROI comparison)
-![Offset Traces](meta-lfm-cortical_outputs/offset_traces.png)
+#### Kymograph
+![Offset Traces](meta-lfm-cortical_outputs/meta-lfm-cortical_kymograph.png)
 
----
-
-### 🌐 Network Dynamics
-
-#### Population kymograph
-![Kymograph](meta-lfm-cortical_outputs/kymograph.png)
-
----
 
 ### 🧬 Biological Example
 
 #### Volumetric Ca²⁺ imaging dataset
-![Biological Example](meta-lfm-cortical_outputs/combine.tif)
+![Biological Example](Combine_video.avi)
 
 ---
 
