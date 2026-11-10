@@ -1,0 +1,11 @@
+roi_id,x0,y0,w,h,x1,y1,source
+1,308,172,34,32,342,204,background
+2,195,47,34,32,229,79,background
+3,66,34,34,32,100,66,background
+4,122,468,34,32,156,500,background
+5,384,522,34,32,418,554,background
+6,304,355,34,32,338,387,background
+7,335,534,34,32,369,566,background
+8,178,469,34,32,212,501,background
+9,396,26,34,32,430,58,background
+10,243,492,34,32,277,524,background
